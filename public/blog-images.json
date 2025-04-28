@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "automacao-marketing",
+    "src": "/blog-images/automacao-marketing.jpg",
+    "alt": "Automação de marketing com gráficos e ferramentas digitais"
+  },
+  {
+    "slug": "caso-zapier",
+    "src": "/blog-images/caso-zapier.jpg",
+    "alt": "Equipe de pequenas empresas usando Zapier no computador"
+  },
+  {
+    "slug": "startup-n8n",
+    "src": "/blog-images/startup-n8n.jpg",
+    "alt": "Startup brasileira em reunião de automação com n8n"
+  },
+  {
+    "slug": "comparativo-automacao",
+    "src": "/blog-images/comparativo-automacao.jpg",
+    "alt": "Quadro comparativo de plataformas de automação"
+  },
+  {
+    "slug": "funis-email-marketing",
+    "src": "/blog-images/funis-email-marketing.jpg",
+    "alt": "Fluxo de automação de e-mail marketing desenhado em quadro branco"
+  },
+  {
+    "slug": "tendencias-automacao-2025",
+    "src": "/blog-images/tendencias-automacao-2025.jpg",
+    "alt": "Tecnologias de automação e tendências para 2025"
+  },
+  {
+    "slug": "ia-generativa-automacao",
+    "src": "/blog-images/ia-generativa-automacao.jpg",
+    "alt": "IA gerando textos automaticamente em tela de computador"
+  },
+  {
+    "slug": "lowcode-nocode",
+    "src": "/blog-images/lowcode-nocode.jpg",
+    "alt": "Ferramentas low-code e no-code para automação"
+  },
+  {
+    "slug": "apis-webhooks",
+    "src": "/blog-images/apis-webhooks.jpg",
+    "alt": "Integração entre sistemas via APIs e webhooks"
+  },
+  {
+    "slug": "recursos-n8n",
+    "src": "/blog-images/recursos-n8n.jpg",
+    "alt": "Recursos gratuitos para aprender n8n"
+  },
+  {
+    "slug": "metricas-kpis-automacao",
+    "src": "/blog-images/metricas-kpis-automacao.jpg",
+    "alt": "Painel de métricas e KPIs em automação"
+  }
+]
